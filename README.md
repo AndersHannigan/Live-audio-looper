@@ -11,4 +11,4 @@ Requirements:
 
 
 
-![Picture of the plugin](/Picturedemo.png)
+![Picture of the plugin](/Demopicture.png)
